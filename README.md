@@ -1,4 +1,4 @@
-Main 1.0.py is a calculator
+Main_1.0.py is a calculator
 
 You must have lastest version of python installed
 
